@@ -19,7 +19,9 @@ A retrospective multicenter study was conducted on **1,832 patients** from six h
 
 ### 🖼️ Study Design Overview
 
-![Figure 1: Study Design](figure/Fig_overview_structure.pdf)
+<p align="center">
+  <img src="figure/Fig_overview_structure.png" alt="Figure 1: Study Design" style="width:70%;">
+</p>
 
 ## 🧠 Model Architecture
 
