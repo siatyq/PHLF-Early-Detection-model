@@ -26,9 +26,9 @@ A retrospective multicenter study was conducted on **1,832 patients** from six h
 ## 🧠 Model Architecture
 
 Our model integrates:
-- **Bio-Clinical BERT**: Encodes clinical variable names, time, and values as modular token sequences.
+- **Bio-Clinical BERT**: Encodes clinical variable names and time as modular token sequences.
 - **Context-aware Transformer**: Captures intra-variable and inter-variable temporal dynamics.
-- **Two classifiers**:
+- **Two Classifiers with Hierarchical Constraints on Relationships**:
   - A primary classifier for binary PHLF detection,
   - A hierarchical gated classifier for PHLF severity grading (Grade A/B/C).
 
